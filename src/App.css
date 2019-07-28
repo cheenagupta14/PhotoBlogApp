@@ -1,0 +1,20 @@
+@import '~antd/dist/antd.css';
+.App {
+    margin: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.AppLabel {
+  font-family: Satisfy, cursive;
+  font-weight:normal;
+  font-size:24px;
+  top: -10px;
+  position: relative;
+}  
+
+.Seperator{
+  padding: 0px 10px;
+  font-size: 24px;
+  top: -10px;
+  position: relative;
+}
